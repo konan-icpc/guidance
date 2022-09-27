@@ -18,10 +18,10 @@ AIZU ONLINE JUDGE（AOJ） プログラミング入門　https://onlinejudge.u-a
 ### Python環境作り
 
 1. Python本体
-  * Python学習のみ対象なら，Pythonのみインストール．参照：https://sukkiri.jp/technologies/processors/python/python-win.html
-  * 今後の発展も考えるなら，Anacondaをインストール．参照：https://www.python.jp/install/anaconda/windows/install.html
+    * Python学習のみ対象なら，Pythonのみインストール．参照：https://sukkiri.jp/technologies/processors/python/python-win.html
+    * 今後の発展も考えるなら，Anacondaをインストール．参照：https://www.python.jp/install/anaconda/windows/install.html
 2. Python用環境
- * お勧めはPyCharm．テキスト入出力が簡単．https://sukkiri.jp/technologies/ides/pycharm/pycharm-win.html
+   * お勧めはPyCharm．テキスト入出力が簡単．https://sukkiri.jp/technologies/ides/pycharm/pycharm-win.html
 
 ### 競技プログラミングのための頻出標準入力処理
 
