@@ -5,7 +5,7 @@
 例：
 * [アルゴリズム系勉強ページ・資料](algo.md)
 * 各種プログラミング言語学習用資料
-  * Python
+  * [Python](python.md)
   * Java
   * C++
 
