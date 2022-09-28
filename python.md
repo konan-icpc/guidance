@@ -27,3 +27,13 @@ AIZU ONLINE JUDGE（AOJ） プログラミング入門　https://onlinejudge.u-a
 
 * [【競技プログラミングの第一歩】Pythonでのさまざまな標準入力](https://media.wemotion.co.jp/technology/%E3%80%90%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E7%AC%AC%E4%B8%80%E6%AD%A9%E3%80%91python%E3%81%A7%E3%81%AE%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE/)
 
+### PythonとPyPyの使い分け
+基本的にインタプリタであるPythonの実行速度は遅い．問題によってはアルゴリズムが合っていてもTLE(実行時間制限超過)になることがある．
+
+そんな時に[PyPy](https://ja.wikipedia.org/wiki/PyPy)の出番．
+
+PyPyはPythonの高速版みたいなイメージだけど，PyPyにも苦手分野(文字列操作，再帰など)はあるので，適切に使い分ける．
+
+あと，AOJなどサイトによってはそもそもPyPyがサポートされていないので注意(TLEになったら頑張って高速化するかC++/Javaなどコンパイラで書き換える)．
+
+> ref: [PythonとPyPyの速度比較](https://qiita.com/y-oksaku/items/f0c5c4681bc30dddf7f4)
