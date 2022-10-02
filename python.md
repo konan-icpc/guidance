@@ -32,7 +32,7 @@ AIZU ONLINE JUDGE（AOJ） プログラミング入門　https://onlinejudge.u-a
 
 そんな時に[PyPy](https://ja.wikipedia.org/wiki/PyPy)の出番．
 
-PyPyはPythonの高速版みたいなイメージだけど，PyPyにも苦手分野(文字列操作，再帰など)はあるので，適切に使い分ける．
+PyPyはPythonの高速版みたいなイメージだけど，PyPyにも苦手分野(+による文字列連結，再帰など)はあるので，適切に使い分ける．
 
 あと，AOJなどサイトによってはそもそもPyPyがサポートされていないので注意(TLEになったら頑張って高速化するかC++/Javaなどコンパイラで書き換える)．
 
