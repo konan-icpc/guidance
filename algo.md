@@ -38,7 +38,7 @@ Dynamic Programming （動的計画法）のこと。
 2. [ライブラリをつかおう(pdf)](kamada/regioAlgo2multi.pdf)
 3. [幅優先・最短経路問題(pdf)](kamada/regioAlgo3multi.pdf)
 
-### C
+### 応用アルゴリズム演習＠神戸大
 
 昔[鎌田](https://www.nc.ii.konan-u.ac.jp/members/kamada/indexJ.html)が神戸大でやっていた応用アルゴリズム演習の資料。C 言語想定。
 コロナ禍の影響で gitpod でブラウザ上開発環境が上がるようにしてある。
