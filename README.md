@@ -7,7 +7,7 @@
 * 各種プログラミング言語学習用資料
   * [Python](python.md)
   * Java
-  * C++
+  * [C++](cpp.md)
 * プログラミング環境について（情報を足して、別ページに移動したほうがいいのかも）
   * [C + VS Code、演習室情報](https://www.nc.ii.konan-u.ac.jp/projects/debugEnv/)
   * [演習室で git と python, Java を使う際の情報](https://www.nc.ii.konan-u.ac.jp/projects/cloudSysPractice/intro/)
