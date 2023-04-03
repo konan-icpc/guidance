@@ -19,6 +19,3 @@
 写真入りのページは[こちら](https://www.konan-u.ac.jp/hp/seki/premier/icpc/)。
 甲南大学プレミアプロジェクトの[KONAN スーパー IT 人材育成プロジェクト](https://www.konan-u.ac.jp/hp/seki/premier/)の一貫として動いています。
 
-## 学内コンテスト
-
-計画中。
